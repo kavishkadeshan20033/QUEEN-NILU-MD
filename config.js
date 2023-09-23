@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;UrZwFaZD#F_xU1srJGrSmJlFSnv92dPdziksg3hjxEKDqDaGtyS4' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
